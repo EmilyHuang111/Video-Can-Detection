@@ -1,3 +1,6 @@
+## Demo
+
+![Demo Video](demo.gif)
 # Circle Detection in Video Frames
 
 This project uses OpenCV to detect and draw circles on frames of a video. The program processes each frame to grayscale, detects circles using the Hough Circle Transform, and then overlays detected circles on the original frame. The processed frames are displayed in real time. This script is modular, with specific functions for circle detection, drawing, image processing, and video frame display.
